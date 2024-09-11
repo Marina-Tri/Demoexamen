@@ -4,6 +4,8 @@ https://bom.firpo.ru/Public/87
 <br>
 https://zealdocs.org/
 <br>
+https://drive.google.com/drive/u/2/folders/184ysP2LWiR3IARSGGFHkpt_Ql6cVVKyb
+<br>
 <br>
 Структура:
 1) базовая структура и проверка сайта на сервере

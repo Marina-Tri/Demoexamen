@@ -35,8 +35,12 @@ Model View Controller (Модель-Представление-Контролл�
 <br>
 В вс коде в юи конфиг в файле веб.пиашпи написать ключ
 <br>
+<br>
 ![нарушениям_нет_1](https://github.com/user-attachments/assets/1a7cec72-26e7-4e42-8473-5d185b780907)
 <br>
 ![нарушениям_нет_2](https://github.com/user-attachments/assets/bd9b4641-c6d5-4063-afa2-b243f3ad7344)
-
-
+<br>
+<br>
+![орг_тех_1](https://github.com/user-attachments/assets/394f6a3d-b745-4cf0-bed6-0e6fe1ae5eba)
+<br>
+![орг_тех_2](https://github.com/user-attachments/assets/8e929371-6795-47c2-a7ac-1491e01eac60)
